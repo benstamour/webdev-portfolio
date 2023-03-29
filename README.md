@@ -1,5 +1,5 @@
-Benjamin St. Amour's Full Stack Development Portfolio
-=====================================================
+Benjamin St. Amour's Web Development Portfolio
+==============================================
 
 [My Portfolio Website](https://github.com/benstamour/portfolio-website)
 =======================================================================
