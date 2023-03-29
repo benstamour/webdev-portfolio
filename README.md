@@ -1,5 +1,10 @@
 Benjamin St. Amour's Full Stack Development Portfolio
-==============================
+=====================================================
+
+[My Portfolio Website](https://github.com/benstamour/portfolio-website)
+=======================================================================
+
+This repository includes the code for my portfolio site, made with HTML, CSS, JavaScript, and Bootstrap. This project involved me experimenting with combinations of colour, typography, and shapes with the goal of creating a site that is aesthetically pleasing and unified. On this website, you can find links to my other projects, along with an overview of my skills, experience, and education.
 
 [Mastermind Game](https://github.com/benstamour/mastermind)
 ===========================================================
