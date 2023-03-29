@@ -4,7 +4,12 @@ Benjamin St. Amour's Full Stack Development Portfolio
 [My Portfolio Website](https://github.com/benstamour/portfolio-website)
 =======================================================================
 
-This repository includes the code for my portfolio site, made with HTML, CSS, JavaScript, and Bootstrap. This project involved me experimenting with combinations of colour, typography, and shapes with the goal of creating a site that is aesthetically pleasing and unified. On this website, you can find links to my other projects, along with an overview of my skills, experience, and education.
+This repository includes the code for my portfolio site, made with HTML, CSS, JavaScript, and Bootstrap. This project involved me experimenting with combinations of colour, typography, and shapes with the goal of creating a responsive site that is aesthetically pleasing and unified. On this website, you can find links to my other projects, along with an overview of my skills, experience, and education.
+
+[Sci-Fi Store Website](https://bensta.epizy.com/starsprinter)
+=============================================================
+
+This repository includes the code for a responsive website for a fictional sci-fi store, made with HTML, CSS, JavaScript, PHP, SQL, and Bootstrap. This project involved me working a lot with PHP and building and querying relational databases using MySQL, and I worked on making the site unified and appealing as well as functional, where features include a search catalogue with pagination and sortable results, a login system, the ability for users to add items to a cart and "purchase" them, and the administrative ability to add and edit items to the catalogue.
 
 [Mastermind Game](https://github.com/benstamour/mastermind)
 ===========================================================
