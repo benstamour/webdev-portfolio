@@ -11,6 +11,11 @@ This repository includes the code for my portfolio site, made with HTML, CSS, Ja
 
 This repository includes the code for a responsive website for a fictional sci-fi store, made with HTML, CSS, JavaScript, PHP, SQL, and Bootstrap. This project involved me working a lot with PHP and building and querying relational databases using MySQL, and I worked on making the site unified and appealing as well as functional, where features include a search catalogue with pagination and sortable results, a login system, the ability for users to add items to a cart and "purchase" them, and the administrative ability to add and edit items to the catalogue.
 
+[Bomb Defusing Game](https://github.com/benstamour/cyberbomb)
+===========================================================
+
+This repository features a collaborative game in which one player sees a bomb with a timer and a series of modules, while all of the others see a manual with instructions on how to defuse the bomb. The goal is for the person with the bomb to successfully defuse it before time expires, but in order to do so, they need help from their teammates to instruct them on how to defuse it. Each bomb features a different version of each module along with a different set of instructions to follow. This project was built using React, JavaScript, CSS, and HTML, and it is playable online **[here](https://bensta.epizy.com/cyberbomb)** or by downloading the build folder in the repository.
+
 [Mastermind Game](https://github.com/benstamour/mastermind)
 ===========================================================
 
