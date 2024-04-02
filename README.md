@@ -35,3 +35,8 @@ This project features a trivia game, with a grid of questions each worth a diffe
 ---------------------------------------------------------
 
 This repository is my first project using Vue.js; it contains a program to encrypt and decrypt messages using the Vigenère cipher. You can access the webpage **[here](https://bensta.epizy.com/vigenere)**.
+
+[Circuit Puzzle](https://github.com/benstamour/circuit-puzzle)
+--------------------------------------------------------------
+
+This repository is my second project using Vue.js; it contains a program to randomly generate a puzzle involving grid of tiles, some of which can be rotated. To solve the puzzle, the tiles must be rotated in such a way that they create a path connecting the start and end points. The grid may also feature numbered portals, which will connect the path with the matching portal on the grid. The puzzle is randomly generated each time the page is loaded. You can play it online **[here](https://bensta.epizy.com/circuit)**.
