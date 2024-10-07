@@ -1,11 +1,6 @@
 Benjamin St. Amour's Web Development Portfolio
 ==============================================
 
-[My Portfolio Website](https://github.com/benstamour/portfolio-website)
------------------------------------------------------------------------
-
-This repository includes the code for my portfolio site, made with HTML, CSS, JavaScript, and Bootstrap. This project involved me experimenting with combinations of colour, typography, and shapes with the goal of creating a responsive site that is aesthetically pleasing and unified. On this website, you can find links to my other projects, along with an overview of my skills, experience, and education.
-
 [Sci-Fi Store Website](https://github.com/benstamour/starsprinter)
 ------------------------------------------------------------------
 
@@ -14,7 +9,17 @@ This repository includes the code for a responsive website for a fictional sci-f
 [Bomb Defusing Game](https://github.com/benstamour/cyberbomb)
 -------------------------------------------------------------
 
-This repository features a collaborative game in which one player sees a bomb with a timer and a series of modules, while all of the others see a manual with instructions on how to defuse the bomb. The goal is for the person with the bomb to successfully defuse it before time expires, but in order to do so, they need help from their teammates to instruct them on how to defuse it. Each bomb features a different version of each module along with a different set of instructions to follow. This project was built using React, JavaScript, CSS, and HTML, and it is playable online **[here](https://bensta.epizy.com/cyberbomb)** or by downloading the build folder in the repository.
+This repository features a collaborative game in which one player sees a bomb with a timer and a series of modules, while all of the others see a manual with instructions on how to defuse the bomb. The goal is for the person with the bomb to successfully defuse it before time expires, but in order to do so, they need help from their teammates to instruct them on how to defuse it. Each bomb features a different version of each module along with a different set of instructions to follow. This project was built using React, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://bensta.epizy.com/cyberbomb)** or by downloading the build folder in the repository.
+
+[Circuit Puzzle](https://github.com/benstamour/circuit-puzzle)
+--------------------------------------------------------------
+
+This repository contains a program to randomly generate a puzzle involving grid of tiles, some of which can be rotated. To solve the puzzle, the tiles must be rotated in such a way that they create a path connecting the start and end points. The grid may also feature numbered portals, which will connect the path with the matching portal on the grid. The puzzle is randomly generated each time the page is loaded. This was built using Vue.js, JavaScript, CSS, and HTML, and it is playable online **[here](https://bensta.epizy.com/circuit)**.
+
+[Word Mastermind Game](https://github.com/benstamour/word-mastermind)
+--------------------------------------------------------------
+
+This repository features code for a game of Word Mastermind. The goal of the player is to guess the computer's secret four-letter word. Each turn, they must guess a valid word, and they will receive feedback in the form of two numbers: one being the number of letters in their guess that are in the wrong place in the secret word, and the second being the number of letters in their guess that are in the correct place in the word. The player can enter their word using either their keyboard or the buttons on-screen, and they can also change the theme/colour scheme of the page. This project was built using Vue.js, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://bensta.epizy.com/circuit)**.
 
 [Mastermind Game](https://github.com/benstamour/mastermind)
 -----------------------------------------------------------
@@ -35,8 +40,3 @@ This project features a trivia game, with a grid of questions each worth a diffe
 ---------------------------------------------------------
 
 This repository is my first project using Vue.js; it contains a program to encrypt and decrypt messages using the Vigenère cipher. You can access the webpage **[here](https://bensta.epizy.com/vigenere)**.
-
-[Circuit Puzzle](https://github.com/benstamour/circuit-puzzle)
---------------------------------------------------------------
-
-This repository is my second project using Vue.js; it contains a program to randomly generate a puzzle involving grid of tiles, some of which can be rotated. To solve the puzzle, the tiles must be rotated in such a way that they create a path connecting the start and end points. The grid may also feature numbered portals, which will connect the path with the matching portal on the grid. The puzzle is randomly generated each time the page is loaded. You can play it online **[here](https://bensta.epizy.com/circuit)**.
