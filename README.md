@@ -4,7 +4,7 @@ Benjamin St. Amour's Web Development Portfolio
 [Sci-Fi Store Website](https://github.com/benstamour/starsprinter) (PHP, SQL, JavaScript)
 ------------------------------------------------------------------
 
-This repository includes the code for a responsive website for a fictional sci-fi store, made with HTML, CSS, JavaScript, PHP, SQL, and Bootstrap. This project involved me working a lot with PHP and building and querying relational databases using MySQL, and I worked on making the site unified and appealing as well as functional, where features include a search catalogue with pagination and sortable results, a login system, the ability for users to add items to a cart and "purchase" them, and the administrative ability to add and edit items to the catalogue.
+This repository includes the code for a responsive website for a fictional sci-fi store, made with HTML, CSS, JavaScript, PHP, SQL, and Bootstrap. This project involved me working a lot with PHP and building and querying relational databases using MySQL, and I worked on making the site unified and appealing as well as functional, where features include a search catalogue with pagination and sortable results, a login system, the ability for users to add items to a cart and "purchase" them, and the administrative ability to add and edit items to the catalogue. You can access the website **[here](https://bensta.epizy.com/starsprinter/)**.
 
 [Bomb Defusing Game](https://github.com/benstamour/cyberbomb) (React.js)
 -------------------------------------------------------------
@@ -19,7 +19,7 @@ This repository contains a program to randomly generate a puzzle involving grid 
 [Word Mastermind Game](https://github.com/benstamour/word-mastermind) (Vue.js)
 --------------------------------------------------------------
 
-This repository features code for a game of Word Mastermind. The goal of the player is to guess the computer's secret four-letter word. Each turn, they must guess a valid word, and they will receive feedback in the form of two numbers: one being the number of letters in their guess that are in the wrong place in the secret word, and the second being the number of letters in their guess that are in the correct place in the word. The player can enter their word using either their keyboard or the buttons on-screen, and they can also change the theme/colour scheme of the page. This project was built using Vue.js, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://bensta.epizy.com/circuit)**.
+This repository features code for a game of Word Mastermind. The goal of the player is to guess the computer's secret four-letter word. Each turn, they must guess a valid word, and they will receive feedback in the form of two numbers: one being the number of letters in their guess that are in the wrong place in the secret word, and the second being the number of letters in their guess that are in the correct place in the word. The player can enter their word using either their keyboard or the buttons on-screen, and they can also change the theme/colour scheme of the page. This project was built using Vue.js, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://bensta.epizy.com/wordmastermind)**.
 
 [Mastermind Game](https://github.com/benstamour/mastermind) (React.js)
 -----------------------------------------------------------
