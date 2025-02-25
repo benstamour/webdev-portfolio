@@ -21,6 +21,11 @@ This repository contains a program to randomly generate a puzzle involving grid 
 
 This repository features code for a game of Word Mastermind. The goal of the player is to guess the computer's secret four-letter word. Each turn, they must guess a valid word, and they will receive feedback in the form of two numbers: one being the number of letters in their guess that are in the wrong place in the secret word, and the second being the number of letters in their guess that are in the correct place in the word. The player can enter their word using either their keyboard or the buttons on-screen, and they can also change the theme/colour scheme of the page. This project was built using Vue.js, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://bensta.epizy.com/wordmastermind)**.
 
+[Timed Word Scramble Game](https://github.com/benstamour/wordscramble) (React.js)
+--------------------------------------------------------------
+
+This repository features code for a timed word scramble game. The goal of the player is to unscramble sets of words within the time limit, with each set using one of many different categories of words. Each word unscrambled adds some additional time to the timer, and the player gets points based on the length and time taken to unscramble each word. This project was built using React.js, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://bensta.epizy.com/wordscramble)**.
+
 [Mastermind Game](https://github.com/benstamour/mastermind) (React.js)
 -----------------------------------------------------------
 
