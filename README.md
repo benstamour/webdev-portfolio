@@ -6,15 +6,19 @@ Benjamin St. Amour's Web Development Portfolio
 
 This repository features code for a game where the user drops letter tiles one at a time into a grid. Once a word is formed from some of the tiles, they are removed from the grid. If the grid gets filled completely, the game ends. The game also includes features like the ability to bank a tile for later, gem tiles that provide score boosts that are given when the player spells high-scoring words, and other tiles that introduce obstacles, such as tiles that randomize their letter each turn, ones that flip the gameboard when used in a word, and more. In later levels, the probabilities of certain letters showing up also changes. The game allows input from the keyboard and also provides on-screen buttons for touchscreen users, and a toggle between light mode and dark mode is provided. The code in this repository was built using Vue.js, JavaScript, CSS, HTML, and Bootstrap, and the website also uses AJAX and PHP. The game is playable **[here](https://www.bensta.epizy.com/lettris)**, where you can also create an account to join the leaderboard on the website!
 
+[Bomb Defusing Game](https://github.com/benstamour/cyberbomb) (React.js)
+-------------------------------------------------------------
+
+This repository features a collaborative game in which one player sees a bomb with a timer and a series of modules, while all of the others see a manual with instructions on how to defuse the bomb. The goal is for the person with the bomb to successfully defuse it before time expires, but in order to do so, they need help from their teammates to instruct them on how to defuse it. Each bomb features a different version of each module along with a different set of instructions to follow. This project was built using React, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://www.bensta.epizy.com/cyberbomb)** or by downloading the build folder in the repository.
+
 [Sci-Fi Store Website](https://github.com/benstamour/starsprinter) (PHP, SQL, JavaScript)
 ------------------------------------------------------------------
 
 This repository includes the code for a responsive website for a fictional sci-fi store, made with HTML, CSS, JavaScript, PHP, SQL, and Bootstrap. This project involved me working a lot with PHP and building and querying relational databases using MySQL, and I worked on making the site unified and appealing as well as functional, where features include a search catalogue with pagination and sortable results, a login system, the ability for users to add items to a cart and "purchase" them, and the administrative ability to add and edit items to the catalogue. You can access the website **[here](https://www.bensta.epizy.com/starsprinter/)**.
 
-[Bomb Defusing Game](https://github.com/benstamour/cyberbomb) (React.js)
--------------------------------------------------------------
-
-This repository features a collaborative game in which one player sees a bomb with a timer and a series of modules, while all of the others see a manual with instructions on how to defuse the bomb. The goal is for the person with the bomb to successfully defuse it before time expires, but in order to do so, they need help from their teammates to instruct them on how to defuse it. Each bomb features a different version of each module along with a different set of instructions to follow. This project was built using React, JavaScript, CSS, HTML, and Bootstrap, and it is playable online **[here](https://www.bensta.epizy.com/cyberbomb)** or by downloading the build folder in the repository.
+[Snake](https://github.com/benstamour/snake) (Next.js, TypeScript)
+--------------------------------------------------------------
+This repository features code for a game of Snake. The player must use the arrow keys to navigate a "snake" around the grid to collect the numbered targets without going out of bounds or hitting obstacles or itself. With each target collected, the snake grows longer, making it more difficult to navigate. There are four grids that the player can choose from with varying shapes and sizes. The code in this repository was built using Next.js, JavaScript, TypeScript, CSS, HTML, and Tailwind.
 
 [Circuit Puzzle](https://github.com/benstamour/circuit-puzzle) (Vue.js)
 --------------------------------------------------------------
